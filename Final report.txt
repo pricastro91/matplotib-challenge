@@ -1,0 +1,9 @@
+Summary of the study results
+
+1. Capomulin and Ramicane have the biggest number of mice per treatment. 
+Propriva has a lower number of mice per treatment. 
+2. For the study was used more male mice than females.
+3. Data showed that Capomulin and Ramicane are more efficient than Infubinol and Ceftamine.
+4. The correlation between mouse weight and the average tumour volume is 0.84.
+What suggests a strong correlation that the average volume of the tumour increase 
+and decrease depending on the weight.
